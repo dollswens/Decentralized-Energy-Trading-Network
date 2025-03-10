@@ -1,3 +1,7 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Y
+)contracts/energy-production-tracking.clar,1/c/1c43840d5898626c4c47bb285cadf7f33ff45ac1
+X
+(tests/energy-production-tracking.test.ts,4/0/4051a225a05c77c17add756c80b5a69925ec1d82
