@@ -11,3 +11,5 @@ R
 "tests/peer-to-peer-trading.test.ts,4/2/42b949d620f72990e06a51aab32e2d17c8090b61
 N
 contracts/grid-management.clar,7/f/7fddbe895193a7c4a8c811c069840cee17cff8ce
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
