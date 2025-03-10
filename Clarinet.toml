@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/energy-production-tracking.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.peer-to-peer-trading]
+path = 'contracts/peer-to-peer-trading.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
